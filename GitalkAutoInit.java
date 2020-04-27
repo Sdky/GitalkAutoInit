@@ -21,7 +21,7 @@ public class GitalkAutoInit {
     /**
      * @param owner      	Gitalk 配置的 owner
      * @param repo      	Gitalk 配置的 repo
-     * @param token			可从浏览器中获取
+     * @param token         生成 token 地址 https://github.com/settings/tokens
      * @param sitemapUrl
      * @param clientId      Gitalk 配置的 clientID
      * @param clientSecret  Gitalk 配置的 clientSecret
